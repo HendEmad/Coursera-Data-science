@@ -1,9 +1,8 @@
 Building machines as intelligent as people is called `Artificial General Intelligence (AGI)`.
 
 # Supervised Learning
-- we input `(X)` to get the output `(y)`. The output is based on the right answers that given to the model to learn from it (be trained).
-- Based on the right answers given to it, it outputs `the correct label `(y)`.
-- In other words, we train the model on inputs `(X) (right answers)`, then the model outputs the `label (y)` after learning from its input.
+- The model learns from data `Labeled` with the `right answers`.
+- we train the model on inputs `(X) (right answers)`, then the model outputs the `label (y)` after learning from its input.
 - What happens is mapping input `X` to output `y`
 
 #### Examples
@@ -33,4 +32,20 @@ image of phone | defect ? (0 / 1) | Visual inspection(companies used it while ma
 ![classification 2](https://user-images.githubusercontent.com/91827137/177371960-73bbabd6-b0d4-41ea-a5d8-d556c6ea9b8e.PNG)
 
 # Unsupervised learning
+- The algorithm takes data and tries to automatically group them into clusters.
+- The model finds something interesting(Pattern / strucutre) in `Unlabeled` data.
+- Data comes with inputs `X`, but not output labels `y`.
 
+## 1. Clustering:
+- Places unlabeled data into different clusters.
+- Examples:
+    1. Google news: Given a set of news atricles found on the web, group them into sets of articles about the same story.
+    2. DNA Microarray.
+    3. Grouping customers into different market segments.
+    
+## 2. Anomaly detection:
+- Find unusual data points.
+- ex. Fraud detection.
+
+## 3. Dimensionality reduction:
+- It takes a big dataset and compress it to much smaller dataset while losing as little imformation as possible.
