@@ -5,3 +5,6 @@
 
 ### Derivative term
 ![image](https://user-images.githubusercontent.com/91827137/186519938-e51c0afe-446b-4399-877a-8616296be2b4.png)
+
+### Learning Rate
+![Screenshot (745)](https://user-images.githubusercontent.com/91827137/186521838-0596106e-2424-4bfa-ab3d-367ed46b8929.png)
