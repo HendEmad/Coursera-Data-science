@@ -20,3 +20,9 @@ Global Minimum --> The point that has the lowest possible value for the cost fun
 Generally, the locl minima differs depending on where we initialized the parameters w & b. But, in linear regression, the cost function is `(Convex function)`. This means that the squared error cost function with linear regression does not has multiple local minima. This provides a great property which is getting the same local minima whatever was the value of learning rate(Alpha).
 
 ![image](https://user-images.githubusercontent.com/91827137/186953260-ac036470-9c0b-435a-8aff-c959658ce926.png)
+
+### Gradient descent in action
+![image](https://user-images.githubusercontent.com/91827137/186955272-21afd7cc-a991-43a2-9179-01a2a9dc0d99.png)
+
+### Batch gradient descent
+![Screenshot (761)](https://user-images.githubusercontent.com/91827137/186955392-d0c87dba-6102-482b-91b6-3c3817370058.png)
