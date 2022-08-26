@@ -8,3 +8,15 @@
 
 ### Learning Rate
 ![Screenshot (745)](https://user-images.githubusercontent.com/91827137/186521838-0596106e-2424-4bfa-ab3d-367ed46b8929.png)
+
+![image](https://user-images.githubusercontent.com/91827137/186898289-f906ffa1-5d1a-4aff-b6ee-382709dc1fbf.png)
+
+This explains how gradient descent reach the local minimum while alpha is constant
+
+![Screenshot (758)](https://user-images.githubusercontent.com/91827137/186897858-9f4f23ec-4bcc-40a4-b2b7-e7a1713a0dce.png)
+
+Global Minimum --> The point that has the lowest possible value for the cost function of all possible points(the lowest local minima).
+
+Generally, the locl minima differs depending on where we initialized the parameters w & b. But, in linear regression, the cost function is `(Convex function)`. This means that the squared error cost function with linear regression does not has multiple local minima. This provides a great property which is getting the same local minima whatever was the value of learning rate(Alpha).
+
+![image](https://user-images.githubusercontent.com/91827137/186953260-ac036470-9c0b-435a-8aff-c959658ce926.png)
