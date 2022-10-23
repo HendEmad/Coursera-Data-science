@@ -12,3 +12,5 @@
 ------------------------------------
 ![image](https://user-images.githubusercontent.com/91827137/197383195-2bc53b67-9362-48a4-ad0c-75146f2455f9.png)
 -----------------------------------
+# Practice quiz: Gradient descent for logistic regression
+![image](https://user-images.githubusercontent.com/91827137/197384461-2e1fdee2-10ca-46c7-b8b7-e7c22ca234cb.png)
