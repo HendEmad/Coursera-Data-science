@@ -14,3 +14,10 @@
 -----------------------------------
 # Practice quiz: Gradient descent for logistic regression
 ![image](https://user-images.githubusercontent.com/91827137/197384461-2e1fdee2-10ca-46c7-b8b7-e7c22ca234cb.png)
+--------------------------------------
+# Practice quiz: The problem of overfitting
+![image](https://user-images.githubusercontent.com/91827137/197607758-247a4b21-54d8-4011-9a70-6e5742fe3a1c.png)
+------------------------------------
+![image](https://user-images.githubusercontent.com/91827137/197607864-8576105a-d379-4169-920c-524fc2f59bb7.png)
+-----------------------------------
+![image](https://user-images.githubusercontent.com/91827137/197607935-d583ae3c-53e0-433f-93bb-8de1f2059fa4.png)
