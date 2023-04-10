@@ -11,3 +11,11 @@
 ![image](https://user-images.githubusercontent.com/91827137/229980933-5954fb42-b697-4126-a642-5ea1c64a0c34.png)
 
 ---------------------------------------------------------------------------------------------------------------------
+# Practice quiz: TensorFlow implementation
+![image](https://user-images.githubusercontent.com/91827137/230913236-a1126226-d975-4700-8dd6-8a5554f7a2c3.png)
+
+![image](https://user-images.githubusercontent.com/91827137/230913235-df0c9c97-9565-4729-8c49-5f1e05b64623.png)
+
+![image](https://user-images.githubusercontent.com/91827137/230913273-e09f530a-6bea-48ea-a5c1-3e19165d1b9f.png)
+
+---------------------------------------------------------------------------------------------------------------------
