@@ -19,3 +19,11 @@
 ![image](https://user-images.githubusercontent.com/91827137/230913273-e09f530a-6bea-48ea-a5c1-3e19165d1b9f.png)
 
 ---------------------------------------------------------------------------------------------------------------------
+# Practice quiz: Neural network implementation in Python
+![image](https://user-images.githubusercontent.com/91827137/230923035-24c667c4-3956-47a1-936e-f40308e152ff.png)
+
+![image](https://user-images.githubusercontent.com/91827137/230923089-3ed5d943-779d-446c-aa56-8a8dbd6ce48f.png)
+
+![image](https://user-images.githubusercontent.com/91827137/230923150-f92ffedc-3d6d-483c-82a3-7fb06ed7b695.png)
+
+---------------------------------------------------------------------------------------------------------------------
