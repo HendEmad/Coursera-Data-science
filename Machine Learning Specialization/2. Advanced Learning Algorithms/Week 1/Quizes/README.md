@@ -27,3 +27,10 @@
 ![image](https://user-images.githubusercontent.com/91827137/230923150-f92ffedc-3d6d-483c-82a3-7fb06ed7b695.png)
 
 ---------------------------------------------------------------------------------------------------------------------
+# Practice quiz: Neural Network Training
+![image](https://user-images.githubusercontent.com/91827137/231448899-556b9859-fc1f-4025-8f37-fff36e3cf48f.png)
+
+![image](https://user-images.githubusercontent.com/91827137/231449301-007c116e-f805-4f69-b66d-f64e51144479.png)
+![image](https://user-images.githubusercontent.com/91827137/231449399-47eb5fc1-f822-40e3-9a33-565c90457992.png)
+
+---------------------------------------------------------------------------------------------------------------------
